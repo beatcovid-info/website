@@ -23,7 +23,7 @@ logo_white = ""
 # when logo is empty, it will shown your site title
 
 # customize color
-primary_color = "#02007e"
+primary_color = "#d56906"
 body_color = "#f9f9f9"
 text_color = "#636363"
 text_color_dark = "#242738"
