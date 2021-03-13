@@ -713,7 +713,12 @@ tbody {
   color: #fff;
   left: 2rem;
 }
-
+#whoshould p::after{
+  content: 'Who should get vaccinated';
+}
+#whoshouldnot p::after{
+  content: 'Who should not get vaccinated';
+}
 /* /single page */
 
 /* side list */
