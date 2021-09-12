@@ -17,9 +17,9 @@ unsafe = true
 ############################# Default Parameters ##########################
 [params]
 # logo is for all page
-logo = ""
+logo = "images/logo.png"
 # logo white is for homepage logo, you can use colorful logo too...
-logo_white = ""
+logo_white = "images/logo-white.png"
 # when logo is empty, it will shown your site title
 
 # customize color
@@ -65,7 +65,7 @@ copyright = "BeatCovid.info - 2021. Powered by [Dot Theme](https://gethugothemes
 [Languages.en.params.banner]
 title = "Beat Covid"
 subtitle = "Protect yourself and protect others, let's beat this together"
-bg_image = "images/banner.jpg"
+bg_image = "images/main-bg.svg"
 placeholder = "Search for terms"
 
 # call to action
